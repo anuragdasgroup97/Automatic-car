@@ -19,6 +19,7 @@ Simulator details
 
    I used a car simulator form Udacity and developed our data set using it. Following is the repository link to the simulator I used:
    https://github.com/udacity/self-driving-car-sim?tab=readme-ov-file
+   
    here is the drive link to all the image data set: https://drive.google.com/drive/folders/1IBGHx1aI_7Xbkg4Y4c9czPHJ6wwlMfAE?usp=sharing
 
 Contact
