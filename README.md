@@ -24,5 +24,5 @@ Simulator details
 
 Contact
 
-   For any questions or suggestions, please contact us at anuragdasgroup1234@gmail.com
+   For any questions or suggestions, please contact me at anuragdasgroup1234@gmail.com
    
